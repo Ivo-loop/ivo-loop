@@ -3,12 +3,6 @@
 I currently work as a Software Developer at Ambevtech, 
 I live in south Brazil and am 19 years old.
 
-
-<div align="center">
-  <a href="https://github.com/ivo-loop">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivo-loop&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivo-loop&layout=compact&langs_count=7&theme=dracula"/>
-</div>
     
 ### I "speak" Languages:
 <div align="center" style="display: inline_block"><br>
